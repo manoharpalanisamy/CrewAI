@@ -18,6 +18,7 @@ To get started, you need to install the following packages:
 ```bash
 pip install crewai
 pip install duckduckgo-search
+```
 
 ## 🚀 Usage
 
